@@ -6,26 +6,34 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Insert title here</title>
 <style>
+	html ,body{
+	height:auto;
+	overflow:auto;
+	}
 	#divide{
-	
+		overflow:hidden;
 		width:100%;
-		
+		height:100%;
 		
 	}
 	#divide #di1{
 		width:25%;
+		height:100%;
 		float:left;
 	}
 	#divide #di2{
 	width:25%;
+	height:100%;
 	float:left;
 	}
 	#divide #di3{
 	width:25%;
+	height:100%;
 		float:left;
 	}
 	#divide #di4{
 	width:25%;
+	height:100%;
 	float:left;
 	}
 </style>
@@ -36,6 +44,9 @@
 		<div id=di2><h3 align='center'>안락사</h3></div>
 		<div id=di3><h3 align='center'>자연사</h3></div>
 		<div id=di4><h3 align='center'>입양</h3></div>
+		
+														
+		
 	</div>
 </body>
 </html>
