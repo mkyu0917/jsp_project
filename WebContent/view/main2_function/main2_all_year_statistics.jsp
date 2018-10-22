@@ -4,16 +4,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Insert title here</title>
-<style>
-	#geograph{
-		
-	}
-</style>
-
 </head>
 <body>
-
-	<div id='geograph'><h3 align='center'> 지도그래프입니당 </h3></div>
-
+	asdfiasejf;aseiojf;sijef;asjf;jsoaef;osjiae;foj
 </body>
 </html>

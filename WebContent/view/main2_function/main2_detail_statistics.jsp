@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<div><h3 align='center'>지오그래프_c_value</h3></div>
+
 </body>
 </html>
