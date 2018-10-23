@@ -45,7 +45,7 @@
 		height:100%;
 		float:left;
 		position:relative;
-		margin: 3px 3px 3px 3px;
+		margin: 5px 3px 5px 3px;
 		border:3px solid #FF0000;
 		border-radius:5px;
 		box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3); 
